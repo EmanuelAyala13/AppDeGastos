@@ -1,0 +1,11 @@
+node app.js para abrir el menu
+// Querido programador:
+// Cuando escribí este código, sólo Dios y yo
+// sabíamos cómo funcionaba.
+// Ahora, ¡sólo Dios lo sabe!
+// Así que si está tratando de 'optimizar'
+// esta rutina y fracasa (seguramente),
+// por favor, incremente el siguiente contador
+// como una advertencia
+// para el siguiente colega:
+// total_horas_perdidas_aquí = 189
